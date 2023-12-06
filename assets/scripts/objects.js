@@ -1,9 +1,5 @@
 const title=document.querySelector(".title");
 
-// title.addEventListener("input",function () {
-//
-// })
-
 const person={
     firstName:"SAHAN",
     lastName:"HERATH",
@@ -11,7 +7,4 @@ const person={
     country:"SWITZERLAND",
     "FATHER NAME":"DR.V.S.B HERATH"
 }
-
-console.log("FIRST NAMEW",person.firstName)
-console.log("FIRST NAMEW",person["firstName"])
-console.log("FATHER NAMEW",person["FATHER NAME"])
+a
